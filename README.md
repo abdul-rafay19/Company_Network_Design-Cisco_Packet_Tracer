@@ -2,7 +2,7 @@
 This project outlines the network infrastructure design for a company with two branches located in different states and a central server in another state. The design incorporates advanced networking techniques for efficient communication, scalability, and security.
 
 ## Group Members
-- Abdul Rafay (233679)
+- Abdul Rafay (233679) (Project Lead)
 - Tayyab Abbas (233681)
 - Muhammad Awais (233680)
 - Arslan Dilawar (233515)
