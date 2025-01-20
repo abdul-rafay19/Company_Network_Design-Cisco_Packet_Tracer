@@ -1,4 +1,4 @@
-# Company-Network-Design-Cisco-Packet-Tracer
+# Company Network Design - Cisco Packet Tracer
 This project outlines the network infrastructure design for a company with two branches located in different states and a central server in another state. The design incorporates advanced networking techniques for efficient communication, scalability, and security.
 
 ## Group Members
