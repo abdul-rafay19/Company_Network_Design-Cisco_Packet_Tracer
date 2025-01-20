@@ -30,6 +30,7 @@ This project presents a detailed design of a network for a company with two bran
 ## Network Design
 ### Topology Diagram
 A comprehensive topology diagram illustrates the network's structure, showcasing the connections between branches and the central server.
+![image](https://github.com/user-attachments/assets/f6c8708f-0f7a-4937-8b1b-d8ad78803ea7)
 
 ### Justification of Topology
 The chosen topology supports efficient communication and centralized management. It includes VLANs for each department, dynamic routing through RIP, and firewalls for security.
